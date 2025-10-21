@@ -1,0 +1,1 @@
+"Here I tried to write code to make a neural network from scratch using numpy only. I implemented forward and back propagation. This NN can be trained and infact I tried to train on MNIST dataset to detect numbers from input image. and the result is in text file. Not Satisfactory though." 
